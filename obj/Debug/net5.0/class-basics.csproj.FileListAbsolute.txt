@@ -1,0 +1,16 @@
+C:\Users\aaron\workspace\csharp\class-basics\bin\Debug\net5.0\class-basics.exe
+C:\Users\aaron\workspace\csharp\class-basics\bin\Debug\net5.0\class-basics.deps.json
+C:\Users\aaron\workspace\csharp\class-basics\bin\Debug\net5.0\class-basics.runtimeconfig.json
+C:\Users\aaron\workspace\csharp\class-basics\bin\Debug\net5.0\class-basics.runtimeconfig.dev.json
+C:\Users\aaron\workspace\csharp\class-basics\bin\Debug\net5.0\class-basics.dll
+C:\Users\aaron\workspace\csharp\class-basics\bin\Debug\net5.0\ref\class-basics.dll
+C:\Users\aaron\workspace\csharp\class-basics\bin\Debug\net5.0\class-basics.pdb
+C:\Users\aaron\workspace\csharp\class-basics\obj\Debug\net5.0\class-basics.csprojAssemblyReference.cache
+C:\Users\aaron\workspace\csharp\class-basics\obj\Debug\net5.0\class-basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\workspace\csharp\class-basics\obj\Debug\net5.0\class-basics.AssemblyInfoInputs.cache
+C:\Users\aaron\workspace\csharp\class-basics\obj\Debug\net5.0\class-basics.AssemblyInfo.cs
+C:\Users\aaron\workspace\csharp\class-basics\obj\Debug\net5.0\class-basics.csproj.CoreCompileInputs.cache
+C:\Users\aaron\workspace\csharp\class-basics\obj\Debug\net5.0\class-basics.dll
+C:\Users\aaron\workspace\csharp\class-basics\obj\Debug\net5.0\ref\class-basics.dll
+C:\Users\aaron\workspace\csharp\class-basics\obj\Debug\net5.0\class-basics.pdb
+C:\Users\aaron\workspace\csharp\class-basics\obj\Debug\net5.0\class-basics.genruntimeconfig.cache
